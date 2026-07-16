@@ -1,0 +1,18 @@
+fieldset{
+    margin:  50 0 0 300;
+    width: 600px;
+    border-radius: 12px;
+    background-color: lightgrey;
+}
+legend{
+    border: 1px solid black;
+    border-radius: 6px;
+    background: lightpink;
+    padding: 5px;
+    color: darkslategray;
+}
+p{
+    color:  red;
+    font-size: 14px;
+    font-style: bold;
+}
